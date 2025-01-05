@@ -1,8 +1,8 @@
 # Rock-Paper-Scissors Game in PowerShell
 
-====================================
+===============================
    ROCK-PAPER-SCISSORS GAME
-====================================
+===============================
 
 ## Overview
 This project is a simple yet interactive implementation of the 
