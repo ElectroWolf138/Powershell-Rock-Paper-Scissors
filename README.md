@@ -1,6 +1,6 @@
-===============================
-   ROCK-PAPER-SCISSORS GAME
-===============================
+
+#   ROCK-PAPER-SCISSORS GAME
+
 
 ## Overview
 This project is a simple yet interactive implementation of the 
