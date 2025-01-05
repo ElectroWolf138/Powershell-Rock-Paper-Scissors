@@ -40,4 +40,4 @@ Contributions, bug reports, and feature requests are welcome. Feel
 free to open an issue or submit a pull request.
 
 ## Credits
-Developed by Robin Nagy - 2025.
+Developed by Robin Nagy - 2025
